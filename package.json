@@ -12,6 +12,9 @@
     "url": "https://github.com/iamcoach/javascript-design-patterns/issues"
   },
   "homepage": "https://github.com/iamcoach/javascript-design-patterns",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
   "devDependencies": {
     "chai": "^2.1.1",
     "mocha": "^2.2.1",
