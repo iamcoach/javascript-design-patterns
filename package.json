@@ -11,5 +11,11 @@
   "bugs": {
     "url": "https://github.com/iamcoach/javascript-design-patterns/issues"
   },
-  "homepage": "https://github.com/iamcoach/javascript-design-patterns"
+  "homepage": "https://github.com/iamcoach/javascript-design-patterns",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1",
+    "sinon": "^1.13.0",
+    "sinon-chai": "^2.7.0"
+  }
 }
